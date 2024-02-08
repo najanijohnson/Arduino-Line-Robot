@@ -16,3 +16,5 @@ the photocells were in series with an analog port pin and a 10k Ohm resistor con
 The resistance was being measured across the 10k Ohm resistor; however, the photocells' resistance directly affected the voltage 
 being measured and provided the analog port pin with information that the transistor used to know when to stop conducting. While 
 the top and bottom of the circuit shared a 3.3-volt input, they were not directly connected to each other.
+
+Heres a link of the chasis https://www.google.com/aclk?sa=l&ai=DChcSEwjp5JCkkpuEAxV0RkcBHQuMAs4YABAHGgJxdQ&ase=2&gclid=CjwKCAiA8YyuBhBSEiwA5R3-E4hNSktDFnR5PM_fce9GMHSPrEckuvac7FGgmXmQdULWc6scci6ZJxoCPmgQAvD_BwE&sig=AOD64_2hW_oRtmkGYoS7_w4eRN4oHUrKBg&ctype=5&nis=5&adurl&ved=2ahUKEwijlIOkkpuEAxWgOlkFHciIDfMQvhd6BQgBEIwB
